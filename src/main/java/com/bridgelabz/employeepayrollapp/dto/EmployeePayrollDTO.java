@@ -1,8 +1,8 @@
 package com.bridgelabz.employeepayrollapp.dto;
 
 public class EmployeePayrollDTO {
-	private String name;
-	private int salary;
+	public String name;
+	public int salary;
 
 	public EmployeePayrollDTO(String name, int salary) {
 		super();
