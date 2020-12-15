@@ -25,3 +25,58 @@
 2020-12-15 14:54:41.353  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.35 seconds (JVM running for 68.714)
 2020-12-15 14:54:41.356  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
 2020-12-15 14:54:41.356  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:02:22.101  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12248 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:02:22.102 DEBUG 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:02:22.102  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:02:22.417  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.349 seconds (JVM running for 529.778)
+2020-12-15 15:02:22.419  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:02:22.420  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:03:04.514  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12248 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:03:04.514 DEBUG 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:03:04.515  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:03:04.833  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.356 seconds (JVM running for 572.194)
+2020-12-15 15:03:04.836  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:03:04.837  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:04:46.092  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12248 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:04:46.092 DEBUG 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:04:46.092  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:04:46.368  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.315 seconds (JVM running for 673.728)
+2020-12-15 15:04:46.369  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:04:46.370  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:05:47.896  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12248 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:05:47.897 DEBUG 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:05:47.897  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:05:48.163  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.296 seconds (JVM running for 735.523)
+2020-12-15 15:05:48.165  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:05:48.165  INFO 12248 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:06:45.978  INFO 12156 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12156 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:06:45.982 DEBUG 12156 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:06:45.983  INFO 12156 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:06:47.896  INFO 12156 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 2.44 seconds (JVM running for 3.857)
+2020-12-15 15:06:47.900  INFO 12156 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:06:47.903  INFO 12156 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:09:53.971  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 10124 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:09:53.976 DEBUG 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:09:53.976  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:09:55.762  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 2.289 seconds (JVM running for 3.478)
+2020-12-15 15:09:55.767  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:09:55.769  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:10:22.486  WARN 10124 --- [http-nio-8085-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.bridgelabz.employeepayrollapp.dto.ResponseDTO> com.bridgelabz.employeepayrollapp.controller.EmployeePayrollController.createEmployeePayrollData(com.bridgelabz.employeepayrollapp.dto.EmployeePayrollDTO): [Field error in object 'employeePayrollDTO' on field 'name': rejected value [nnnabc]; codes [Pattern.employeePayrollDTO.name,Pattern.name,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [employeePayrollDTO.name,name]; arguments []; default message [name],[Ljavax.validation.constraints.Pattern$Flag;@1ecdfef1,^[A-Z]{1}[a-zA-Z\s]{2,}$]; default message [Invalid Employee Name]] ]
+2020-12-15 15:11:55.345  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 10124 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:11:55.346 DEBUG 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:11:55.347  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:11:55.769  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.483 seconds (JVM running for 123.485)
+2020-12-15 15:11:55.774  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:11:55.775  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:14:18.855  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 10124 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:14:18.856 DEBUG 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:14:18.856  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:14:19.205  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.385 seconds (JVM running for 266.921)
+2020-12-15 15:14:19.207  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:14:19.208  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:18:43.558  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 10124 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:18:43.558 DEBUG 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:18:43.559  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:18:43.852  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.324 seconds (JVM running for 531.568)
+2020-12-15 15:18:43.854  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:18:43.855  INFO 10124 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
