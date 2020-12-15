@@ -1,5 +1,8 @@
 package com.bridgelabz.employeepayrollapp.controller;
 
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -14,23 +17,27 @@ import org.springframework.web.bind.annotation.RestController;
 import com.bridgelabz.employeepayrollapp.dto.EmployeePayrollDTO;
 import com.bridgelabz.employeepayrollapp.dto.ResponseDTO;
 import com.bridgelabz.employeepayrollapp.model.EmployeePayrollData;
+import com.bridgelabz.employeepayrollapp.service.EmployeePayrollService;
+import com.bridgelabz.employeepayrollapp.service.IEmployeePayrollService;
 
 @RestController
 @RequestMapping("/employeepayrollservice")
-public class EmployeePayrolllController {
+public class EmployeePayrollController {
+	@Autowired
+	private IEmployeePayrollService employeePayrollService;
 
 	@RequestMapping(value = { "", "/", "/get" })
 	public ResponseEntity<ResponseDTO> getEmployeePayrollData() {
-		EmployeePayrollData empData = null;
-		empData = new EmployeePayrollData(1, new EmployeePayrollDTO("Aston", 100000));
-		ResponseDTO responseDTO = new ResponseDTO("Get Call Successful", empData);
+		List<EmployeePayrollData> empDataList = null;
+		empDataList = employeePayrollService.getEmployeePayrollData(); 
+		ResponseDTO responseDTO = new ResponseDTO("Get Call Successful", empDataList);
 		return new ResponseEntity<ResponseDTO>(responseDTO, HttpStatus.OK);
 	}
 
 	@GetMapping("/get/{empId}")
 	public ResponseEntity<ResponseDTO> getEmployeePayrollData(@PathVariable("empId") int empId) {
 		EmployeePayrollData empData = null;
-		empData = new EmployeePayrollData(1, new EmployeePayrollDTO("Pankaj", 200000));
+		empData = employeePayrollService.getEmployeePayrollDataById(empId); 
 		ResponseDTO responseDTO = new ResponseDTO("Get Call Successful", empData);
 		return new ResponseEntity<ResponseDTO>(responseDTO, HttpStatus.OK);
 	}
@@ -38,7 +45,7 @@ public class EmployeePayrolllController {
 	@PostMapping("/create")
 	public ResponseEntity<ResponseDTO> addEmployeePayrollData(@RequestBody EmployeePayrollDTO employeePayrollDTO) {
 		EmployeePayrollData empData = null;
-		empData = new EmployeePayrollData(1, employeePayrollDTO);
+		empData = employeePayrollService.createEmployeePayrollData(employeePayrollDTO); 
 		ResponseDTO responseDTO = new ResponseDTO("Created Employee Payroll Data Successfully", empData);
 		return new ResponseEntity<ResponseDTO>(responseDTO, HttpStatus.OK);
 	}
