@@ -65,5 +65,4 @@ public class EmployeePayrollController {
 		ResponseDTO responseDTO = new ResponseDTO("Delete call success for Id: ", empId);
 		return new ResponseEntity<ResponseDTO>(responseDTO, HttpStatus.OK);
 	}
-
 }
