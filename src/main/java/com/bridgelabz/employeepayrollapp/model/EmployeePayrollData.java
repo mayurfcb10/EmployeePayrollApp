@@ -11,7 +11,6 @@ public class EmployeePayrollData {
 	}
 
 	public EmployeePayrollData(int employeeId, EmployeePayrollDTO employeePayrollDTO ) {
-		super();
 		this.employeeId = employeeId;
 		this.name = employeePayrollDTO.name;
 		this.salary = employeePayrollDTO.salary;
