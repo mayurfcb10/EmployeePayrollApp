@@ -1,5 +1,7 @@
 package com.bridgelabz.employeepayrollapp.model;
 
+import java.util.Date;
+
 import com.bridgelabz.employeepayrollapp.dto.EmployeePayrollDTO;
 
 import lombok.Data;
