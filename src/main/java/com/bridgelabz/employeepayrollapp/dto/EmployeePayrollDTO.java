@@ -1,5 +1,7 @@
 package com.bridgelabz.employeepayrollapp.dto;
 
+import java.time.LocalDate;
+import java.util.Date;
 import java.util.List;
 
 import javax.validation.constraints.Min;
@@ -24,7 +26,7 @@ public @ToString class EmployeePayrollDTO {
 	@JsonFormat(pattern = "dd-MM-yyyy")
 	@NotNull(message = "start date should Not be Empty")
 	// @PastOrPresent(message = "start date should be past or todays date")
-	public String startDate;
+	public Date startDate;
 	@NotBlank(message = "Note cannot be Empty")
 	public String notes;
 	@NotBlank(message = "Department cannot be Empty")

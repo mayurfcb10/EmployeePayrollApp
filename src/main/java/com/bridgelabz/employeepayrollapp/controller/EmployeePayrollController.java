@@ -19,7 +19,6 @@ import org.springframework.web.bind.annotation.RestController;
 import com.bridgelabz.employeepayrollapp.dto.EmployeePayrollDTO;
 import com.bridgelabz.employeepayrollapp.dto.ResponseDTO;
 import com.bridgelabz.employeepayrollapp.model.EmployeePayrollData;
-import com.bridgelabz.employeepayrollapp.service.EmployeePayrollService;
 import com.bridgelabz.employeepayrollapp.service.IEmployeePayrollService;
 
 @RestController
