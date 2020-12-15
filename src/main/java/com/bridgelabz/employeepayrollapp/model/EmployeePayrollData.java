@@ -1,7 +1,5 @@
 package com.bridgelabz.employeepayrollapp.model;
 
-import java.util.Date;
-
 import com.bridgelabz.employeepayrollapp.dto.EmployeePayrollDTO;
 
 import lombok.Data;
@@ -22,12 +20,13 @@ public @Data class EmployeePayrollData {
 
 	public EmployeePayrollData(int employeeId, EmployeePayrollDTO employeePayrollDTO ) {
 		this.employeeId = employeeId;
-		this.name = employeePayrollDTO.getName();
-		this.salary = employeePayrollDTO.getSalary();
-		this.imagePath= employeePayrollDTO.getImagePath();
-		this.gender = employeePayrollDTO.getGender();
-		this.department = employeePayrollDTO.getDepartment();
-		this.notes = employeePayrollDTO.getNotes();
+		this.name = employeePayrollDTO.name;
+		this.salary = employeePayrollDTO.salary;
+		this.imagePath= employeePayrollDTO.imagePath;
+		this.gender = employeePayrollDTO.gender;
+		this.startDate=employeePayrollDTO.startDate;
+		this.department = employeePayrollDTO.department;
+		this.notes = employeePayrollDTO.notes;
 	}
 	
 	@Override

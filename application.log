@@ -373,3 +373,369 @@ javax.validation.UnexpectedTypeException: HV000030: No validator could be found 
 2020-12-15 15:56:28.232  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.449 seconds (JVM running for 594.672)
 2020-12-15 15:56:28.234  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
 2020-12-15 15:56:28.234  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:56:36.918  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:56:36.919 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:56:36.919  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:56:37.381  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.511 seconds (JVM running for 603.823)
+2020-12-15 15:56:37.386  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:56:37.386  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 15:58:52.852  WARN 12228 --- [http-nio-8085-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-12-15 15:59:38.095  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 15:59:38.096 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 15:59:38.096  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 15:59:38.379  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.32 seconds (JVM running for 784.82)
+2020-12-15 15:59:38.381  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 15:59:38.382  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:00:56.316  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:00:56.316 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:00:56.317  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:00:56.583  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.294 seconds (JVM running for 863.024)
+2020-12-15 16:00:56.585  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:00:56.586  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:01:01.157  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:01:01.158 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:01:01.158  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:01:01.497  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.375 seconds (JVM running for 867.939)
+2020-12-15 16:01:01.499  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:01:01.500  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:01:24.408  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:01:24.408 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:01:24.408  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:01:24.672  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.292 seconds (JVM running for 891.113)
+2020-12-15 16:01:24.674  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:01:24.674  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:04:38.402  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:04:38.403 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:04:38.403  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:04:38.666  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.293 seconds (JVM running for 1085.108)
+2020-12-15 16:04:38.668  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:04:38.669  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:04:48.369  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:04:48.369 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:04:48.369  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:04:48.619  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.281 seconds (JVM running for 1095.061)
+2020-12-15 16:04:48.621  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:04:48.621  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:05:10.482  WARN 12228 --- [http-nio-8085-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-12-15 16:05:22.145 ERROR 12228 --- [http-nio-8085-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.bridgelabz.employeepayrollapp.exception.EmployeePayrollException: Employee Not Found] with root cause
+
+com.bridgelabz.employeepayrollapp.exception.EmployeePayrollException: Employee Not Found
+	at com.bridgelabz.employeepayrollapp.service.EmployeePayrollService.lambda$1(EmployeePayrollService.java:26) ~[classes/:na]
+	at java.base/java.util.Optional.orElseThrow(Optional.java:401) ~[na:na]
+	at com.bridgelabz.employeepayrollapp.service.EmployeePayrollService.getEmployeePayrollDataById(EmployeePayrollService.java:26) ~[classes/:na]
+	at com.bridgelabz.employeepayrollapp.controller.EmployeePayrollController.getEmployeePayrollData(EmployeePayrollController.java:42) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-12-15 16:05:23.655 ERROR 12228 --- [http-nio-8085-exec-5] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.bridgelabz.employeepayrollapp.exception.EmployeePayrollException: Employee Not Found] with root cause
+
+com.bridgelabz.employeepayrollapp.exception.EmployeePayrollException: Employee Not Found
+	at com.bridgelabz.employeepayrollapp.service.EmployeePayrollService.lambda$1(EmployeePayrollService.java:26) ~[classes/:na]
+	at java.base/java.util.Optional.orElseThrow(Optional.java:401) ~[na:na]
+	at com.bridgelabz.employeepayrollapp.service.EmployeePayrollService.getEmployeePayrollDataById(EmployeePayrollService.java:26) ~[classes/:na]
+	at com.bridgelabz.employeepayrollapp.controller.EmployeePayrollController.getEmployeePayrollData(EmployeePayrollController.java:42) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-12-15 16:13:26.916 ERROR 12228 --- [http-nio-8085-exec-7] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is com.bridgelabz.employeepayrollapp.exception.EmployeePayrollException: Employee Not Found] with root cause
+
+com.bridgelabz.employeepayrollapp.exception.EmployeePayrollException: Employee Not Found
+	at com.bridgelabz.employeepayrollapp.service.EmployeePayrollService.lambda$1(EmployeePayrollService.java:26) ~[classes/:na]
+	at java.base/java.util.Optional.orElseThrow(Optional.java:401) ~[na:na]
+	at com.bridgelabz.employeepayrollapp.service.EmployeePayrollService.getEmployeePayrollDataById(EmployeePayrollService.java:26) ~[classes/:na]
+	at com.bridgelabz.employeepayrollapp.controller.EmployeePayrollController.getEmployeePayrollData(EmployeePayrollController.java:42) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-12-15 16:14:37.180  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:14:37.182 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:14:37.186  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:14:37.477  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.356 seconds (JVM running for 1683.919)
+2020-12-15 16:14:37.480  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:14:37.480  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:15:05.570  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:15:05.571 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:15:05.571  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:15:05.931  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.407 seconds (JVM running for 1712.373)
+2020-12-15 16:15:05.933  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:15:05.933  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:15:12.148  WARN 12228 --- [http-nio-8085-exec-2] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [com.bridgelabz.employeepayrollapp.exception.EmployeePayrollException: Employee Not Found]
+2020-12-15 16:16:19.699  WARN 12228 --- [http-nio-8085-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2020-12-15 16:21:55.513  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:21:55.514 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:21:55.514  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:21:55.851  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.372 seconds (JVM running for 2122.292)
+2020-12-15 16:21:55.853  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:21:55.854  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:22:03.468  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:22:03.469 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:22:03.469  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:22:03.721  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.28 seconds (JVM running for 2130.162)
+2020-12-15 16:22:03.723  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:22:03.724  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:24:03.832  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:24:03.833 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:24:03.834  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:24:04.147  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.366 seconds (JVM running for 2250.589)
+2020-12-15 16:24:04.151  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:24:04.151  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:24:12.680 ERROR 12228 --- [http-nio-8085-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "com.bridgelabz.employeepayrollapp.model.EmployeePayrollData.setName(String)" because "empData" is null] with root cause
+
+java.lang.NullPointerException: Cannot invoke "com.bridgelabz.employeepayrollapp.model.EmployeePayrollData.setName(String)" because "empData" is null
+	at com.bridgelabz.employeepayrollapp.service.EmployeePayrollService.createEmployeePayrollData(EmployeePayrollService.java:33) ~[classes/:na]
+	at com.bridgelabz.employeepayrollapp.controller.EmployeePayrollController.createEmployeePayrollData(EmployeePayrollController.java:50) ~[classes/:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:197) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:141) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:106) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:894) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1061) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:961) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:652) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.2.jar:5.3.2]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733) ~[tomcat-embed-core-9.0.41.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.3.2.jar:5.3.2]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630) ~[na:na]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.41.jar:9.0.41]
+	at java.base/java.lang.Thread.run(Thread.java:832) ~[na:na]
+
+2020-12-15 16:25:53.957  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:25:53.958 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:25:53.958  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:25:54.256  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.328 seconds (JVM running for 2360.698)
+2020-12-15 16:25:54.261  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:25:54.261  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:28:03.081  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:28:03.081 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:28:03.081  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:28:03.328  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.275 seconds (JVM running for 2489.77)
+2020-12-15 16:28:03.330  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:28:03.331  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:33:22.318  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:33:22.318 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:33:22.319  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:33:22.815  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.536 seconds (JVM running for 2809.256)
+2020-12-15 16:33:22.817  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:33:22.817  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:34:39.921  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:34:39.921 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:34:39.921  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:34:40.217  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.338 seconds (JVM running for 2886.659)
+2020-12-15 16:34:40.220  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:34:40.221  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:35:22.554  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:35:22.555 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:35:22.555  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:35:22.889  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.369 seconds (JVM running for 2929.33)
+2020-12-15 16:35:22.891  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:35:22.891  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:36:49.947  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:36:49.947 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:36:49.948  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:36:50.233  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.313 seconds (JVM running for 3016.674)
+2020-12-15 16:36:50.236  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:36:50.237  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:39:51.237  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:39:51.238 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:39:51.238  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:39:51.518  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.312 seconds (JVM running for 3197.96)
+2020-12-15 16:39:51.521  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:39:51.521  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:40:27.718  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:40:27.718 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:40:27.718  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:40:28.144  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.456 seconds (JVM running for 3234.585)
+2020-12-15 16:40:28.146  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:40:28.147  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:41:28.749  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:41:28.750 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:41:28.750  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:41:29.095  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.369 seconds (JVM running for 3295.537)
+2020-12-15 16:41:29.097  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:41:29.097  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
+2020-12-15 16:42:02.188  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Starting EmployeePayrollApplication using Java 15 on MAYURFCB with PID 12228 (F:\SpringCodes\EmployeePayrollApp\target\classes started by Mayurfcb in F:\SpringCodes\EmployeePayrollApp)
+2020-12-15 16:42:02.189 DEBUG 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Running with Spring Boot v2.4.1, Spring v5.3.2
+2020-12-15 16:42:02.189  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : The following profiles are active: dev
+2020-12-15 16:42:02.440  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Started EmployeePayrollApplication in 0.276 seconds (JVM running for 3328.882)
+2020-12-15 16:42:02.442  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll App started in DEV Environment
+2020-12-15 16:42:02.442  INFO 12228 --- [restartedMain] c.b.e.EmployeePayrollApplication         : Employee Payroll DB user is payrolluser
